@@ -1,0 +1,31 @@
+html{
+    
+    background-image: url(../ggb.jpeg)}
+
+body{
+background-color: lightpink;
+
+width: 700px;
+padding: 50px;
+margin-top: 50px;
+margin-left: auto;
+margin-right: auto;
+}
+
+
+h1{
+    color: darkblue;
+    font-family:"Arial";    
+}
+
+h2{
+    font-family:"Helvetica";
+    font-size: 18pt; 
+    color: crimson;
+}
+
+p{
+    font-family: "Helvetica";
+    font-size: 14pt;
+    color: darkred;   
+}

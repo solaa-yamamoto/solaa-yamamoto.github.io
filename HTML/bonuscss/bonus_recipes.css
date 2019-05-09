@@ -1,0 +1,33 @@
+
+body{
+    
+    background: linear-gradient(white,orange);
+    
+    width: 700px;
+    padding: 70px;
+    margin-top: 50px;
+    margin-left: 200px;
+    margin-right: auto;
+    text-align:;
+    
+    font-family: "helvetica bold", sans-serif;}
+ 
+a{
+    color: darkblue;
+}
+
+a:hover {color: aquamarine}
+
+h1{ 
+
+font-family:"Georgia";} 
+
+
+h3{font-family: "Lucida Console";}
+
+p{font-family: "Times New Roman";
+color: darkslategrey;}
+
+li{ font-family: "Times New Roman";
+font-size: 12pt;}
+

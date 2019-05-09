@@ -1,0 +1,55 @@
+html{
+    background-image:url(../Images/weirdtile.png)}
+
+body{
+
+    width: 700px;
+    padding: 50px;
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    
+    border:solid;border-color:antiquewhite;
+    background-color: lightcyan;
+    
+    text-align: center;
+}
+    
+
+a{ 
+    font-family: "Helvetica","Arial",sans-serif;
+    font-size: 12pt;
+    color: coral; 
+    text-decoration:none;
+}
+
+a:hover {color:teal;}
+
+
+h1{
+    font-family:"Courier","Gill Sans Semibold";
+    font-size: 36pt;
+    color:teal;
+    border-top: 2px dotted #686143;
+    border-bottom: 2px dotted #686143;
+    text-transform: uppercase;   
+}
+
+
+p{
+    font-family:"courier"; 
+    font-size:12pt;
+    line-height: 14pt;
+}
+
+
+
+
+
+
+
+
+
+
+
+
