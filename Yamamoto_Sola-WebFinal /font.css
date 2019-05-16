@@ -1,0 +1,73 @@
+
+body{
+    width: 960px;
+    padding: 50px;
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    
+}
+
+a{ font-family: 'Megrim', cursive;
+font-size: 24pt;
+text-decoration: none;
+
+}
+a:hover{color: darkblue;}
+
+
+h1{ font-family:'Megrim', cursive;
+    text-decoration: none;
+    color: #FFA200;
+    font-size: 32pt;
+}
+
+
+div{
+    width: 700px;
+    height: 450px;
+    background-color: #A28DBF;
+    border-radius: 10px; 
+    margin-left:auto;
+    margin:auto;
+    padding: 5px;}
+
+
+section{
+    width: auto;
+    margin: auto;
+    text-align: center;}
+
+
+
+p{
+    margin-left: auto;
+    margin:auto;
+    padding-top: 10px;
+    padding-bottom:10px;
+    font-family: "Thasadith",sans-serif;
+    font-size: 20pt;
+}
+
+
+
+footer{
+    
+    color:turquoise;
+    background-color:gray;
+    height:50px;
+    width:100%;
+    position: fixed;
+    bottom:0px;
+    left:0px;
+    border-radius: 10px;
+}
+
+/*   
+href="https://fonts.googleapis.com/css?family=Megrim|Poiret+One|Thasadith">
+
+
+font-family: 'Megrim', cursive;
+     font-family: 'Poiret One', cursive;
+     font-family: 'Thasadith', sans-serif;*/
